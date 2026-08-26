@@ -1,3 +1,3 @@
 print("Test")
 a = int(input("Enter a number: "))
-print(a)
+print(f"A = {a}")
